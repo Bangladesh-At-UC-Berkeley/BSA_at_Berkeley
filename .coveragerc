@@ -1,0 +1,5 @@
+[run]
+include = bsa_berkeley/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
