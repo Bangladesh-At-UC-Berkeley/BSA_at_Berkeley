@@ -1,4 +1,4 @@
-BSA-At-UC-Berkeley
+Bengali Student Club @ UC Berkeley
 ==================
 
 This is the website for Bengali Student Association at UC Berkeley!
