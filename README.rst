@@ -24,6 +24,11 @@ Moved to settings_.
 Basic Commands
 --------------
 
+Cookiecutter-Django Tutorial
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you are new to Django and Cookiecutter and don't know where to start may be look into this step by step tutorial to get started: [Cookiecutter-Django](https://cookiecutter-django.readthedocs.io/en/latest/project-generation-options.html)
+
 Setting Up Your Users
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -111,7 +116,3 @@ Heroku
 See detailed `cookiecutter-django Heroku documentation`_.
 
 .. _`cookiecutter-django Heroku documentation`: http://cookiecutter-django.readthedocs.io/en/latest/deployment-on-heroku.html
-
-
-
-
