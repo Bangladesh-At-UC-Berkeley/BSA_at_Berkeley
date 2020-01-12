@@ -2,17 +2,17 @@
     margin: 0 auto;
     position: relative;
     /* width: 100%; */
-    padding: 0% 1% 40% 40%; /*56.25 is for 16x9 resolution*/
+    padding: 0% 1% 40% 1%; /*56.25 is for 16x9 resolution*/
 		border-radius:20px;
 		background: rgba(0,0,0,0.2);
-    /* box-shadow: 0 0 20px rgba(0,0,0,0.6); */
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
     box-sizing:absolute;
     /* from stackoverflow */
 
 	  /* overflow: hidden; */
 	  width: inherit;
 	  height: 240px;
-	  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+	  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); */
     /* end */
 }
 
