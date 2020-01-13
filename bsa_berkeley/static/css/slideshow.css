@@ -1,8 +1,10 @@
+
+
 #slideshow {
     margin: 0 auto;
     position: relative;
     width: 100%;
-    padding: 0% 1% 40% 1%; /*56.25 is for 16x9 resolution*/
+    padding: 0% 0% 40% 0%; /*56.25 is for 16x9 resolution*/
 		background: rgba(0,0,0,0.2);
     box-shadow: 0 0 20px rgba(0,0,0,0.6);
     box-sizing:absolute;
@@ -18,7 +20,7 @@
 
 #slideshow > div {
     position: absolute;
-    top: 0px;
+    /* top: 0px; */
     left: 0px;
     right: 0px;
     bottom: 0px;
