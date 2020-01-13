@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 $("#slideshow > div:gt(0)").hide();
 
-var buttons = "<button class=\"slidebtn prev\"><i class=\"fa fa-chevron-circle-left\"></i></button><button class=\"slidebtn next\"><i class=\"fa fa-chevron-circle-right\"></i></button\>";
+var buttons = "<button class=\"slidebtn prev\"><i class=\"fa fa-chevron-circle-left\" aria-hidden= \"true\"></i></button><button class=\"slidebtn next\"><i class=\"fa fa-chevron-circle-right\"></i></button\>";
 
 var slidesl = $('.slideitem').length
 var d = "<li class=\"dot active-dot\">&bull;</li>";

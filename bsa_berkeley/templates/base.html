@@ -24,6 +24,7 @@
     <!-- Your stuff: Third-party CSS libraries go here -->
     <link href="{% static 'css/slideshow.css' %}" rel="stylesheet">
     <link href="{% static 'css/eventcrds.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 
 
     <!-- This file stores project-specific CSS -->
@@ -76,7 +77,8 @@
 
     </div>
 
-    <div class="container">
+    <!-- Removed class="container" -->
+    <div>
 
       {% if messages %}
           {% for message in messages %}
